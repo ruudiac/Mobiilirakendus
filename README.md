@@ -41,13 +41,6 @@ Ava Signing & Capabilities ning luba automaatne allkirjastamine.
 
 Klõpsa Run ▶️, et installida ja käivitada rakendus telefonis.
 
-5. Silumine (Debugging)
-
-Ava Product > Scheme > Edit Scheme ja veendu, et Debug executable on lubatud.
-
-Lisa print("Silumine töötab...") faili ContentView.swift, et kontrollida logisid.
-
-Vaata väljundit Xcode'i Debug Console'is.
 
 Mis Oli Lihtne
 
