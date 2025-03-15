@@ -44,21 +44,13 @@ Klõpsa Run ▶️, et installida ja käivitada rakendus telefonis.
 
 Mis Oli Lihtne
 
-✅ Xcode'i projekti seadistamine ja SwiftUI koodi kirjutamine.✅ Rakenduse käivitamine emulaatoris.✅ GitHubi kasutamine versioonihalduseks.
+Xcode'i projekti seadistamine ja SwiftUI koodi kirjutamine.
+Rakenduse käivitamine emulaatoris.
+GitHubi kasutamine versioonihalduseks.
 
 Mis Oli Raskem
 
-⚠️ Füüsilises seadmes testimise seadistamine (vajas Apple'i arendajakontot).⚠️ Esialgsete koodi allkirjastamise probleemide lahendamine.⚠️ Veendumine, et silumine töötaks õigesti füüsilises seadmes.
+Crashis paar korda!
 
-Esitluse Ettevalmistus
-
-Valmistatud on 10-minutiline video, mis demonstreerib:
-
-GitHubi seadistamist
-
-Rakenduse käivitamist emulaatoris ja füüsilises seadmes
-
-Silumist
-
-Alternatiivina saab projekti esitada ka reaalajas klassis.
+Füüsilises seadmes testimise seadistamine (vajas Apple'i arendajakontot).
 
