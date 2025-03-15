@@ -4,7 +4,7 @@ Tere, Maailm! iOS Rakendus
 
 Ülevaade
 
-See projekt on lihtne "Tere, Maailm!" iOS-rakendus, mis on loodud SwiftUI abil Xcode'is. Projekt on avalikult saadaval GitHubis ja sisaldab seadistamise juhiseid, testimist nii emulaatoris kui ka füüsilises seadmes ning silumise (debugging) kontrollimist. Projekti algset malli on muudetud vähemalt 1% ulatuses.
+See projekt on lihtne "Tere, Maailm!" iOS-rakendus, mis on loodud SwiftUI abil Xcode'is. Projekt on avalikult saadaval GitHubis ja sisaldab seadistamise juhiseid, testimist nii emulaatoris kui ka füüsilises seadmes. Projekti algset malli on muudetud vähemalt 1% ulatuses.
 
 Seadistamise Juhised
 
