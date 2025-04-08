@@ -41,6 +41,7 @@ struct ContentView: View {
             .frame(maxWidth: .infinity, maxHeight: .infinity)
             .background(Color(red: 0.796, green: 0.667, blue: 0.871))
             .ignoresSafeArea()
+            
         }
     }
 }
